@@ -94,3 +94,8 @@
 - Place: Lucknow, UP, India
 - Bio: Noobie at Git. Barca fan. 
 - Github: [Ankur Mishra](https://github.com/kaiatgit)
+
+ #### Name: [RITIKA BHARTI](https://github.com/Ritika434)
+ -Place: Hazaribag, Jharkhand, India
+ -Bio: I like trying new things.
+ -Github: [Ritika Bharti](https://github.com/Ritika434)
